@@ -45,5 +45,7 @@ export default {
   width: 24px;
   height: 24px;
   margin-top: 3px;
+  vertical-align: middle;
+  margin-bottom: 2px;
 }
 </style>

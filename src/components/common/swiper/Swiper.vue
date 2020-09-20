@@ -28,7 +28,7 @@ export default {
   props: {
     interval: {
       type: Number,
-      default: 5000
+      default: 9000
     },
     animDuration: {
       type: Number,
